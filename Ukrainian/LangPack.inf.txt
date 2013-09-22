@@ -1,0 +1,4 @@
+[LangPack]
+Version=JellyBean 4.2 Ukrainian
+Language=uk
+Territory=UA
